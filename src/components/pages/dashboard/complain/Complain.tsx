@@ -131,7 +131,7 @@ export default function Complain() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 p-8">
+    <div className="min-h-screen bg-gray-100 md:p-8 ">
       <div className="">
         <h1 className="text-2xl font-bold text-gray-900 mb-6">All sellers</h1>
 
